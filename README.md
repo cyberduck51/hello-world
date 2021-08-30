@@ -1,2 +1,6 @@
 # hello-world
-Hello-world repository
+
+Hi Humans!
+
+This is Phi Phi English.
+Nice to start this new journey.
